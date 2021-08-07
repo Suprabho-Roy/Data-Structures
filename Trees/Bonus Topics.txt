@@ -1,0 +1,5 @@
+AVL Sort
+Red Black Sort
+Binary Heap
+Priority Queue
+Trie
