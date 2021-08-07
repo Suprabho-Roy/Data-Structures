@@ -59,7 +59,7 @@ class BinarySearchTree{
     }
 
     remove(value){
-        
+        // needs revision...complex problem
     }
 }
 
@@ -77,6 +77,8 @@ console.log(tree);
 
 tree.lookup(9);
 tree.lookup(170);
+
+// tree.remove(9);
 
 
 
